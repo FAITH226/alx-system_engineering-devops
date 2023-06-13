@@ -1,4 +1,4 @@
-chmod +x*
+chmod +x *
 git add .
 git commit -m 'shell variables expansion'
 git push
